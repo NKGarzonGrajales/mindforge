@@ -1,6 +1,5 @@
 # MindForge
 
-Your own space to practice technical skills.
 
 **Features:**
 - AI-powered insights (coming soon)
