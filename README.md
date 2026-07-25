@@ -1,10 +1,14 @@
-# MindForge
+# MindForge ⚡
 
+╔═══════════════════════╗
+║ PRACTICE HUB ║
+║ No Friction Zone ║
+╚═══════════════════════╝
 
 **Features:**
-- AI-powered insights (coming soon)
+- AI-powered insights (coming soon) 
 
-## Stack
+## Stack 
 
 - **Frontend:** Next.js 15, React 19, TypeScript, Tailwind CSS
 - **Backend:** NestJS 10, PostgreSQL
@@ -14,4 +18,4 @@
 
 ---
 
-*Practice without friction.*
+⚙️
